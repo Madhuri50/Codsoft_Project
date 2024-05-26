@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    font-family: cursive;
+}
+
+header h1 {
+    margin: 0;
+    font-family: cursive;
+}
+
+#about {
+    padding: 20px;
+    font-family: cursive;
+}
+
+#about img {
+    width: 200px;
+    border-radius: 70%;
+    border: 5px solid;
+    
+}
+
+#skills, #projects, #resume, #contact {
+    padding: 20px;
+    font-family: cursive;
+}
+
+.project {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.project img {
+    width: 400px;
+    height: 300px;
+    border-radius: 45px;
+    text-align: center;
+    border: 5px solid;
+
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    height: 50px;
+    font-size: 20px;
+    font-family: cursive;
+}
+h2{
+    font-size: 40px;
+    color: #6e2606;
+}
+#id {
+    background-color: rgb(225, 123, 123);
+}
+button{
+    background-color: #eeb096;
+    border-radius: 25px;
+}
