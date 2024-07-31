@@ -23,7 +23,7 @@ This is a personal portfolio website for showcasing my work as a web developer. 
 
 I am Madhuri Ediga, a passionate web developer with experience in HTML, CSS, JavaScript, and more. I love creating beautiful and functional websites that provide great user experiences.
 
-![Profile Image](profile.jpg)
+![Profile Image]()
 
 ## Skills
 
